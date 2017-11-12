@@ -1,0 +1,9 @@
+E:\topppppppppppppppp\project\coffee_pos_603410194-3\coffee_pos_603410194-3\bin\Debug\coffee_pos_603410194-3.exe.config
+E:\topppppppppppppppp\project\coffee_pos_603410194-3\coffee_pos_603410194-3\bin\Debug\coffee_pos_603410194-3.exe
+E:\topppppppppppppppp\project\coffee_pos_603410194-3\coffee_pos_603410194-3\bin\Debug\coffee_pos_603410194-3.pdb
+E:\topppppppppppppppp\project\coffee_pos_603410194-3\coffee_pos_603410194-3\obj\Debug\coffee_pos_603410194-3.csprojResolveAssemblyReference.cache
+E:\topppppppppppppppp\project\coffee_pos_603410194-3\coffee_pos_603410194-3\obj\Debug\coffee_pos_603410194_3.Form1.resources
+E:\topppppppppppppppp\project\coffee_pos_603410194-3\coffee_pos_603410194-3\obj\Debug\coffee_pos_603410194_3.Properties.Resources.resources
+E:\topppppppppppppppp\project\coffee_pos_603410194-3\coffee_pos_603410194-3\obj\Debug\coffee_pos_603410194-3.csproj.GenerateResource.Cache
+E:\topppppppppppppppp\project\coffee_pos_603410194-3\coffee_pos_603410194-3\obj\Debug\coffee_pos_603410194-3.exe
+E:\topppppppppppppppp\project\coffee_pos_603410194-3\coffee_pos_603410194-3\obj\Debug\coffee_pos_603410194-3.pdb
